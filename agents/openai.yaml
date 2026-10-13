@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Actions 工作流检查"
+  short_description: "用 actionlint 检查 GitHub Actions 工作流语法与配置"
+  default_prompt: "使用 $github-actions-lint 检查当前仓库的 GitHub Actions 工作流。"
